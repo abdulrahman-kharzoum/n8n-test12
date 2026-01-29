@@ -33,7 +33,8 @@
     },
     {
       "parameters": {
-        "operation": "get"
+        "operation": "get",
+        "tableId": "supervisors"
       },
       "type": "n8n-nodes-base.supabase",
       "typeVersion": 1,
@@ -45,8 +46,8 @@
       "name": "Get a row",
       "credentials": {
         "supabaseApi": {
-          "id": "L8DXPf1Vpl4idzyu",
-          "name": "ai supply"
+          "id": "rZKxg1WQE99vNeKz",
+          "name": "wonderhr"
         }
       }
     }
@@ -81,7 +82,7 @@
     "executionOrder": "v1",
     "availableInMCP": false
   },
-  "versionId": "820b124f-b75f-440a-9125-c24a322626f2",
+  "versionId": "c0471562-ad38-41fa-8e3f-c3413d820bb2",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "82a07e25bb5446408550f6d7aab9c641753a0ccd2476c2dc971589d3e32f8cc3"
